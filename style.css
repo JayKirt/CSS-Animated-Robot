@@ -4,6 +4,7 @@ h1 {
 }
 
 .robots {
+display: flex;
 }
 
 .head, 
@@ -13,6 +14,7 @@ h1 {
 .left_leg, 
 .right_leg {
 	 background-color: #5f93e8;
+	
 }
 
 .head { 
@@ -62,7 +64,7 @@ h1 {
 	width: 200px; 
 	height: 200px;
 	/* This is another useful property. Hmm what do you think it does?*/
-	margin: 0 auto;
+	margin: 40px auto;
 
 } 
 
@@ -85,7 +87,10 @@ h1 {
 }
 
 .right_leg { 
-	margin-left: 30px; 
+	margin-left: 120px; 
+	position:relative;
+	bottom: 115px;
+
 }
 
 .left_eye, .right_eye { 
