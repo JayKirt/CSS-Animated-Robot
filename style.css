@@ -53,6 +53,9 @@ display: flex;
 .right_arm { 
 	margin-left: 10px; 
 } 
+.right_arm:hover {
+	transform: rotate(280deg);
+}
 
 .torso { 
 	width: 200px; 
@@ -93,6 +96,9 @@ display: flex;
 
 }
 
+.right_leg:hover {
+	transform: rotate(345deg);
+}
 .left_eye, .right_eye { 
 	width: 20px; 
 	height: 20px; 
