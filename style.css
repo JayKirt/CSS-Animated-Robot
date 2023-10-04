@@ -89,7 +89,7 @@ display: flex;
 .right_leg { 
 	margin-left: 120px; 
 	position:relative;
-	bottom: 115px;
+	bottom: 119px;
 
 }
 
@@ -110,7 +110,7 @@ display: flex;
 
 .right_eye { 
 	position: relative; 
-	top: 100px; 
+	top: 82px; 
 	left: 120px; 
 }
 
