@@ -8,5 +8,5 @@
   <li>Dance with his right leg. ✔️</li>
   <li>Dance with his left leg. ✔️</li>
   <li>Turn his head.✔️ </li>
-  <li>Is centred on the page. ✔️</li>
+  <li>Is centred on the page.✔️</li>
 </ul>
