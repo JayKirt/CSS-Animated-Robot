@@ -6,7 +6,7 @@
   <p><ins>The robot can:</ins></p>
   <li>Wave with his right hand.  ✔️</li>
   <li>Dance with his right leg.  ✔️</li>
-  <li>Dance with his left leg. ✔️</li>
+  <li>Dance with his left leg.  ✔️</li>
   <li>Turn his head.✔️ </li>
   <li>Is centred on the page. ✔️</li>
 </ul>
